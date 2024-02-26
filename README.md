@@ -1,6 +1,6 @@
 # OpenAI vs open-source multilingual embeddings models
 
-This noteboook provides example code to assess which embedding model works best for your data. The example task is a retrieval task (as in RAG - retrieval augmented generation), on multilingual data. See associated Medium article [here]().
+This noteboook provides example code to assess which embedding model works best for your data. The example task is a retrieval task (as in RAG - retrieval augmented generation), on multilingual data. See associated Medium article [here](https://medium.com/p/e5ccb7c90f05).
 
 The data source is based on the European AI Act, and models cover some of the latest OpenAI and open-source embeddings models (as of 02/2024) to deal with multilingual data:
 
