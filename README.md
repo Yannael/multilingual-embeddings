@@ -1,6 +1,6 @@
 # OpenAI vs open-source multilingual embeddings models
 
-<a href="https://colab.research.google.com/github/Yannael/multilingual-embeddings/blob/main/Multilingual_Embeddings_OpenAI_vs_OpenSource.ipynb)" target="_blank"><img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" /></a>
+<a href="https://colab.research.google.com/github/Yannael/multilingual-embeddings/blob/main/Multilingual_Embeddings_OpenAI_vs_OpenSource.ipynb" target="_blank"><img align="center" src="https://colab.research.google.com/assets/colab-badge.svg" /></a>
 
 This noteboook provides example code to assess which embedding model works best for your data. The example task is a retrieval task (as in RAG - retrieval augmented generation), on multilingual data. See associated Medium article [here](https://medium.com/p/e5ccb7c90f05).
 
